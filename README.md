@@ -4,11 +4,12 @@
 ## How the algorithm works:
 
 1. *Start from a random point*
-2. Calculate the objective function value
-3. Select the best neighbor
-4. Move to the best neighbor
-5. Repeat this process until no better neighbor exists than the current point
+2. *Calculate the objective function value*
+3. *Select the best neighbor*
+4. *Move to the best neighbor*
+5. *Repeat this process until no better neighbor exists than the current point*
 
-This algorithm is suitable for problems with small search spaces.
+*This algorithm is suitable for problems with small search spaces.*
+
 
 **Disadvantages:** It should be noted that it can easily converge to a local optimum and get stuck there, failing to find the global optimum.
