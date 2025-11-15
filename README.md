@@ -11,5 +11,6 @@
 
 *This algorithm is suitable for problems with small search spaces.*
 
-
-**Disadvantages:** It should be noted that it can easily converge to a local optimum and get stuck there, failing to find the global optimum.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/4a61077d-d124-4327-a95a-a7c414e2e4a5" />
+*It should be noted that it can easily converge to a local optimum and get stuck there, failing to find the global optimum.*
+(https://www.geeksforgeeks.org/artificial-intelligence/introduction-hill-climbing-artificial-intelligence/)
