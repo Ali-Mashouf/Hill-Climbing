@@ -10,5 +10,5 @@
 * ***It has a clear and distinct global maximum***
 * ***It is simple and fast to compute***
 * ***It allows for easy observation and verification of the algorithm's convergence towards the point (0, 0)***
-2. return np.sin(np.sqrt(x**2 + y**2))
-  ***This function is more complex, featuring multiple local maxima and a global maximum. Using this function clearly demonstrates a key weakness of the Hill Climbing algorithm: its tendency to get stuck in a local optimum***  
+### return np.sin(np.sqrt(x**2 + y**2))
+***This function is more complex, featuring multiple local maxima and a global maximum. Using this function clearly demonstrates a key weakness of the Hill Climbing algorithm: its tendency to get stuck in a local optimum***  
