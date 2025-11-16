@@ -15,3 +15,4 @@
 
 ### $$f(x, y) = \sin(\sqrt{x^2 + y^2})$$
 ***This function is more complex, featuring multiple local maxima and a global maximum. Using this function clearly demonstrates a key weakness of the Hill Climbing algorithm: its tendency to get stuck in a local optimum***  
+<img width="410" height="398" alt="image" src="https://github.com/user-attachments/assets/2c2a9453-b684-4519-8c48-2a0dc6c6a959" />
