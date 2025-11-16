@@ -1,5 +1,5 @@
-*This simple implementation demonstrates the Hill Climbing optimization algorithm.*
-The algorithm's goal is to find the values of x and y that **maximize** the objective function func(x, y)
+***This simple implementation demonstrates the Hill Climbing optimization algorithm.***
+**The algorithm's goal is to find the values of x and y that ***maximize*** the objective function func(x, y)**
 
 # Functions Used
 ***The code uses two main types of functions:***
