@@ -1,4 +1,4 @@
-***This simple implementation demonstrates the Hill Climbing optimization algorithm.***
+<img width="413" height="398" alt="image" src="https://github.com/user-attachments/assets/ca2f6f40-8f16-4fd1-b0fa-214d168faf39" />***This simple implementation demonstrates the Hill Climbing optimization algorithm.***
 **The algorithm's goal is to find the values of x and y that ***maximize*** the objective function func(x, y)**
 
 # Functions Used
@@ -10,5 +10,7 @@
 * ***It has a clear and distinct global maximum***
 * ***It is simple and fast to compute***
 * ***It allows for easy observation and verification of the algorithm's convergence towards the point (0, 0)***
+<img width="413" height="398" alt="image" src="https://github.com/user-attachments/assets/08da0c1b-e286-4b74-8b31-218991bce3b6" />
+
 ### $$f(x, y) = \sin(\sqrt{x^2 + y^2})$$
 ***This function is more complex, featuring multiple local maxima and a global maximum. Using this function clearly demonstrates a key weakness of the Hill Climbing algorithm: its tendency to get stuck in a local optimum***  
